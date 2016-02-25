@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="src" path="/FrameWork_Util"/>
+	<classpathentry exported="true" kind="src" path="/FrameWork"/>
+	<classpathentry exported="true" kind="src" path="/FrameWork_Trace"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.generic.runtimeTarget/JBoss v5.0"/>
+	<classpathentry kind="lib" path="/FrameWork_Lib/lib2/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/FrameWork_Lib/lib2/jsp-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
